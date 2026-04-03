@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hey There! I'm Venu Pentyala ⚡</h1>
-<h3 align="center">🚀 DevOps & Cloud Enginner | ☁️ Cloud Ninja | 🤖 AI Ops Builder | 📊 Data Engineer</h3>
+<h3 align="center">🚀 DevOps & Cloud Enginner | ☁️ Cloud Ninja | 🤖 AI Ops Builder | 📊 Data Platform</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automating+Everything...;Building+Scalable+Cloud+Systems;AI+%2B+DevOps+%3D+Future;AKS+%7C+Terraform+%7C+Airflow+%7C+AWS" />
@@ -43,7 +43,7 @@
 Azure ⚡ AWS ☁️
 
 ⚙️ Containers
-Kubernetes (AKS) 🔥 Docker 🐳
+Kubernetes (AKS & EKS) 🔥 Docker 🐳
 
 🧱 IaC
 Terraform 🏗️
@@ -87,18 +87,24 @@ highlights:
 
 ---
 
-### ☁️ AKS Platform Engineering
+### ☁️ Platform Engineering
 
-```yaml
 focus:
   - Production-grade Kubernetes (AKS)
-  - Calico networking
-  - High availability & scaling
+  - Azure Container Apps (microservices platform)
+  - Azure App Gateway (WAF, ingress, traffic routing)
+  - Azure Functions & Logic Apps (serverless workflows)
+  - Azure Key Vault (secrets & identity management)
+  - Azure Service Bus (event-driven architecture)
+  - Calico networking & secure cluster communication
+  - High availability, scalability & zero-downtime deployments
 
 wins:
-  - Fixed token refresh issues 🔧
-  - Improved pod scheduling 🚀
-```
+  - Designed secure ingress using App Gateway + WAF 🔐
+  - Implemented event-driven systems using Service Bus ⚡
+  - Integrated Key Vault for secrets & identity management 🔑
+  - Built serverless automation using Functions & Logic Apps 🤖
+  - Improved platform reliability, scalability & resilience 🚀
 
 ---
 
