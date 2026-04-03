@@ -37,8 +37,6 @@
 
 ## 🚀 Tech Universe
 ```
-<p align="center">
-
 ☁️ Cloud
 Azure ⚡ AWS ☁️
 
@@ -60,14 +58,13 @@ Airflow 🌪️ dbt 🔶 PostgreSQL 🐘
 🤖 AI / Automation
 Azure OpenAI 🧠 AI Agents ⚡ AIOps 🔥
 
-</p>
 ```
 ---
 
 ## 🔥 Featured Work
 ```
-### 🤖 AI Insurance Lab – With AgentLightning
-### 🤖 AI DocuSerach
+🤖 AI Insurance Lab – With AgentLightning
+🤖 AI DocuSerach
 ```
 ---
 
