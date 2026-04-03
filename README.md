@@ -88,7 +88,7 @@ highlights:
 ---
 
 ### ☁️ Platform Engineering
-
+```
 focus:
   - Production-grade Kubernetes (AKS)
   - Azure Container Apps (microservices platform)
@@ -105,7 +105,7 @@ wins:
   - Integrated Key Vault for secrets & identity management 🔑
   - Built serverless automation using Functions & Logic Apps 🤖
   - Improved platform reliability, scalability & resilience 🚀
-
+```
 ---
 
 ### ⚙️ Terraform Cloud Platform
