@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hey There! I'm Venu Pentyala ⚡</h1>
-<h3 align="center">🚀 DevOps Architect | ☁️ Cloud Ninja | 🤖 AI Ops Builder | 📊 Data Engineer</h3>
+<h3 align="center">🚀 DevOps & Cloud Enginner | ☁️ Cloud Ninja | 🤖 AI Ops Builder | 📊 Data Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automating+Everything...;Building+Scalable+Cloud+Systems;AI+%2B+DevOps+%3D+Future;AKS+%7C+Terraform+%7C+Airflow+%7C+AWS" />
