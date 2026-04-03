@@ -85,7 +85,7 @@ highlights:
 ---
 
 ### ☁️ Platform Engineering
-```
+```yaml
 focus:
   - Production-grade Kubernetes (AKS)
   - Azure Container Apps (microservices platform)
