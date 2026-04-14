@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venu%20Pentyala&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20SRE%20%7C%20AIOps%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venu%20Pentyala&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps+%7C+Cloud+%7C+SRE+%7C+AIOps+Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Automating+Everything...;Building+Scalable+Cloud+Systems;AI+%2B+DevOps+%3D+Future;AKS+%7C+Terraform+%7C+Airflow+%7C+AWS" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 ```yaml
 name        : Venu Pentyala
-role        : DevOps Lead & Cloud Architect
+role        : DevOps & Cloud Lead
 experience  : 7.5+ years
 focus       : AIOps · Platform Engineering · Cloud Infrastructure
 cloud       : Azure (Primary) · AWS (Secondary)
@@ -181,9 +181,6 @@ superpower  : Eliminating problems before they happen 😎
 ## 📊 GitHub Power Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VenuPentyala22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuPentyala22&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/>
 
